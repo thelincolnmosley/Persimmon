@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="icon.svg" width="96" height="96" alt="Persimmon Icon">
+</p>
+
 # Persimmon
 
 > A tranquil snake game in four lights, set upon a floating garden.
